@@ -1,0 +1,1 @@
+Web forms are main forms of interaction between theuser and the web server. This repository shows how to create them using the flask framework. The WTF package 
